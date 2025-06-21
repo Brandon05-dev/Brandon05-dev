@@ -26,11 +26,13 @@
 
 ---
 
-- 🧑‍💻 Frontend Developer (HTML, CSS, JavaScript, React, Tailwind CSS)
-- 🌍 Based in Kenya | He/Him
-- 🧠 Currently learning advanced React and frontend project structuring
-- 🧪 Building real-world student tools via **Brantech E-Cyber Services**
-- 🚀 Projects: UniWallet · CampusBites · RentEasy · EventLink
+### 👨‍💻 Full Stack Developer & Cybersecurity Enthusiast
+- 🌍 Based in Kenya | He/Him  
+- 🧠 Currently diving deeper into **advanced React**, **backend development (Node.js & Django)**, and **Cybersecurity Foundations**  
+- 🧪 Building smart, student-centered tools via **Brantech E-Cyber Services**  
+- 🛠️ Tech Stack: HTML · CSS · JavaScript · React · Tailwind · Node.js · Django · Python · SQL · Git  
+- 🔐 Exploring ethical hacking, network security, and secure app development  
+- 🚀 Featured Projects: **UniAssist Hub** · **BMI Leather** · **Campus Wallet** · **Personal Website**
 
 ---
 

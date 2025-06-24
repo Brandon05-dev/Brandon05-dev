@@ -1,9 +1,8 @@
 <!-- Clickable Banner Image -->
-<div align="center">
-  <a href="https://eugenedev.netlify.app/">
-    <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="Brandon's Banner" />
-  </a>
-</div>
+<p align="center">
+  <img src="Blue Green Neon Futuristic Cyber Security Video.gif" alt="Animated banner" />
+</p>
+
 
 
 <h1 align="center">👋 Hey there, I'm Brandon,a Full Stack Developer and Cybersecurity Enthusiast based in Kenya 🇰🇪.</h1>

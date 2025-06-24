@@ -20,6 +20,14 @@ Right now, I'm focused on mastering advanced React, diving into backend developm
 
 ---
 
+## 🏆 GitHub Profile Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Brandon05-dev&theme=onedark&row=1&column=7" alt="GitHub Profile Trophies" />
+</p>
+
+---
+
+
 ### </>Full Stack Developer & Cybersecurity Enthusiast
 - 🌍 Based in Kenya | He/Him  
 - 🧠 Currently diving deeper into **advanced React**, **backend development (Node.js & Django)**, and **Cybersecurity Foundations**  
@@ -72,9 +80,15 @@ Right now, I'm focused on mastering advanced React, diving into backend developm
 
 ### GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brandon05-dev&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon05-dev&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Brandon05-dev&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon05-dev&layout=compact&theme=radical" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brandon05-dev&theme=radical" />
+</p>
+
+
 
 ---
 

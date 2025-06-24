@@ -1,19 +1,9 @@
+<!-- Clickable Banner Image -->
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25yNjN1ajBmczZ1bzhya256bDcydTdzeGU2bTcyOHh4ZWYwNWY5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S9d8XB557e8phGLBVS/giphy.gif" width="300px" height="300px" alt="Developer Animation" />
-      </td>
-      <td align="center" width="50px">
-        <!-- Spacer -->
-      </td>
-      <td align="center">
-       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnMzaG1lNno3Y3EwdDdleWU2d2pvOXJwcTF4b3FzbHY5czNpcGxrdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RDZo7znAdn2u7sAcWH/giphy.gif" width="300px" height="300px" alt="Cybersecurity Animation" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://eugenedev.netlify.app/">
+    <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="Brandon's Banner" />
+  </a>
 </div>
-
 
 
 <h1 align="center">👋 Hey there, I'm Brandon,a Full Stack Developer and Cybersecurity Enthusiast based in Kenya 🇰🇪.</h1>

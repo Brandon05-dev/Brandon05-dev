@@ -21,9 +21,9 @@ Right now, I'm focused on mastering advanced React, diving into backend developm
 ---
 
 ## 🏆 GitHub Profile Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Brandon05-dev&theme=onedark&row=1&column=7" alt="GitHub Profile Trophies" />
-</p>
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Brandon05-dev&theme=onedark&row=1&column=7)
+
 
 ---
 

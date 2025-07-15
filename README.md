@@ -15,9 +15,6 @@
 Right now, I'm focused on mastering advanced React, diving into backend development with Node.js and Django, and exploring the depths of cybersecurity from ethical hacking to secure application design.
 </h3>
 
-<h3 align="center">Through my startup, Brantech E-Cyber Services & Hub, I'm dedicated to creating practical, student-centered tools that solve real challenges across campuses.</h3>
-
-
 ---
 
 ## 🏆 GitHub Profile Trophies

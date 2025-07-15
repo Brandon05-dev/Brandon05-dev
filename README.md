@@ -4,8 +4,8 @@
 </p>
 
 
-
-<h1 align="center">👋 Hey there, I'm Brandon,a Full Stack Developer and Cybersecurity Enthusiast based in Kenya 🇰🇪.</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=900&size=24&duration=3000&pause=840&color=F8F8F8FF&background=000000FF&vCenter=true&width=1000&height=83&lines=👋Hello%2C+This+is+Brandon+Omutiti;I'm+a+passionate+Software+Engineer;A+Cybersecurity+and+AI+enthusiast;Interested+in+learning+new+technologies+in+tech)](https://git.io/typing-svg)
+----------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Brandon05-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -78,7 +78,13 @@ Right now, I'm focused on mastering advanced React, diving into backend developm
 
 ---
 
-### GitHub Stats:
+<h2 align="center">
+  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
+
+### 📈 GitHub Activity Graph:
+[![Brandon05-dev's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Brandon05-dev&theme=react-dark&hide_border=true)](https://github.com/Brandon05-dev)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Brandon05-dev&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon05-dev&layout=compact&theme=radical" />
